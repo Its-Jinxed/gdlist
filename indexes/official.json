@@ -1,20 +1,25 @@
-[
-  {
-    "name": "Lost (XVA Remix)",
-    "artist": "Crim3s",
-    "source": "youtube",
-    "yt-id": "VZXeoUPPFOY",
-    "songs": [
-      945695
-    ]
-  },
-  {
-    "name": "Btay Blive ( Luan & Codly Remix )",
-    "artist": "Bie Takahashi",
-    "songs": [
-      938470
-    ],
-    "yt-id": "zNOK_toH6HQ",
-    "source": "youtube"
+{
+  "manifest": 1,
+  "name": "ItsJinxed GD List Official Index",
+  "id": "ItsJinxed-nong-index",
+  "description": "Official Nongs from the ItsJinxed GD List.",
+  "lastUpdate": 1752000000,
+  "nongs": {
+    "hosted": {
+      "b2c8f1e4-6d3a-4f25-9a87-3f71d9c4b912": {
+        "name": "Bre You Ready (GD:R Cut)",
+        "artist": "Shirobon",
+        "startOffset": 0,
+        "url": "https://audio.jukehost.co.uk/2mPhNjbs9LYQgqw7YtXEBdduCqUj7a5j",
+        "songs": [10007300]
+      },
+      "random uuid": {
+        "name": "name",
+        "artist": "artist",
+        "startOffset": 0,
+        "url": "https://audio.jukehost.co.uk/url",
+        "songs": [1]
+      }
+    }
   }
-]
+}
