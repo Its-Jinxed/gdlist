@@ -7,6 +7,6 @@ Download the .json in the obs folder, and import it into your own obs (Scene Col
 
 # jukebox
 Make sure jukebox is downloaded from geode and active. In the mod's settings, you can find a page for indexes. Create a new one, and paste the following line in. Don't forget to apply changes.
--
+
 https://raw.githubusercontent.com/Its-Jinxed/gdlist/refs/heads/main/indexes/official.json
--
+
